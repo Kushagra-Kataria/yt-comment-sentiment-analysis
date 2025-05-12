@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = C:\Users\Kushagra\Appdata\Local\Temp
+    url = s3://ycommentsdvcbucket
